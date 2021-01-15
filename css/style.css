@@ -50,10 +50,12 @@ body {
     cursor: pointer;
     transition: 250ms ease;
 }
+
 .btn-login {
     background-color: transparent;
     color: var(--white);
 }
+
 .btn-login:hover {
     background-color: var(--white);
     color: var(--magenta);
