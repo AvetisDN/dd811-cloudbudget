@@ -1,0 +1,22 @@
+
+.icon-down-dir:before { content: '\e800'; } /* '' */
+.icon-up-dir:before { content: '\e801'; } /* '' */
+.icon-left-dir:before { content: '\e802'; } /* '' */
+.icon-right-dir:before { content: '\e803'; } /* '' */
+.icon-appstore:before { content: '\e805'; } /* '' */
+.icon-cloud-arrow:before { content: '\e806'; } /* '' */
+.icon-csv:before { content: '\e807'; } /* '' */
+.icon-dashicons-cloud:before { content: '\e808'; } /* '' */
+.icon-pdf:before { content: '\e809'; } /* '' */
+.icon-playstore:before { content: '\e80a'; } /* '' */
+.icon-security:before { content: '\e80b'; } /* '' */
+.icon-windows:before { content: '\e80c'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-dribbble:before { content: '\f17d'; } /* '' */
+.icon-vkontakte:before { content: '\f189'; } /* '' */
+.icon-behance:before { content: '\f1b4'; } /* '' */
+.icon-github:before { content: '\f300'; } /* '' */
