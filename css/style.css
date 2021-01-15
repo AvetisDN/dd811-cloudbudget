@@ -256,6 +256,7 @@ body {
     background-position: center;
     background-size: cover;
 }
+
 .features .feature-item .feature-item_text {
     width: 85%;
     background-color: var(--white);
